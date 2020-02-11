@@ -66,6 +66,8 @@ After completing my initial analysis, I designed a Flask API based on the querie
 
 * `/api/v1.0/tobs`
 
-* `/api/v1.0/<start>` and `/api/v1.0/<start>/<end>`
+* `/api/v1.0/<start>` 
+
+* `/api/v1.0/<start>/<end>`
 
 - - -
