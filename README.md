@@ -10,7 +10,7 @@ To begin,  I used Python and SQLAlchemy to do basic climate analysis and data ex
 
   * Chose a start date and end date for the trip. The vacation range is approximately 3-15 days total.
 
-  * Used SQLAlchemy `create_engine` to connect to your sqlite database.
+  * Used SQLAlchemy `create_engine` to connect to the sqlite database.
 
   * Used SQLAlchemy `automap_base()` to reflect the tables into classes and save a reference to those classes called `Station` and `Measurement`.
 
