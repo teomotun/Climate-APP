@@ -1,3 +1,3 @@
 *.py linguist-detectable=true
 *.ipynb linguist-detectable=false
-*.py linguist-language=Flask
+*.py linguist-language=FLASK
