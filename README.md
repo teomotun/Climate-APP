@@ -6,7 +6,7 @@ So I decided to treat myself to a long holiday vacation in Honolulu, Hawaii! To 
 
 ## Step 1 - Climate Analysis and Exploration
 
-To begin,  I used Python and SQLAlchemy to do basic climate analysis and data exploration of my climate database.
+To begin,  I used Python and SQLAlchemy to do basic climate analysis and data exploration of the climate database I found.
 
   * Chose a start date and end date for the trip. The vacation range is approximately 3-15 days total.
 
